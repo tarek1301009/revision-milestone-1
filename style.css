@@ -42,6 +42,11 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
 .experience-content {
     display: flex;
